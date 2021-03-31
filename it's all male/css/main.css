@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+}
+
+
+#Re{
+    position: static;
+}
+.F {
+    width: 50px;
+    height: 20px;
+    
+}
+
+
+#gks{
+    overflow: hidden;
+}
+tr td{
+    vertical-align: middle;
+    
+}
+#answ{
+    border: 1px solid grey;
+}
+#min1{
+    display: none;
+}
+#min2{
+    display: none;
+}
+#gks span{
+    float:left;
+    padding: 8px 3px 0 0;
+}
+#gks dt{
+    border-bottom: 1px solid;
+    text-align: center;
+}
+#gks dl{
+    float: left;
+}
+.reshOpr{
+    width: 15px;
+    text-align: center;
+}
+.resh{
+    text-align: center;
+}
